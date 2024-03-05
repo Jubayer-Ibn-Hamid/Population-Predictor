@@ -1,0 +1,1 @@
+This repository contains a simple implementation of various models to fit the population data of Bangaldesh from 1950 to 2024. We built (1) an exponential model (2) a logistics model and (3) a shallow neural network and test it on varying train-test splits. 
